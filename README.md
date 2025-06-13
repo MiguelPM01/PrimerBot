@@ -1,2 +1,2 @@
 # PrimerBot
-Primera versión bot WhatsAPP
+Primera versión bot WhatsApp
